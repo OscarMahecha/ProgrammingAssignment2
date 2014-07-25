@@ -1,4 +1,3 @@
-## Creates a special matrix object that can cache its inverse
 makeCacheMatrix <- function( m = matrix() ) {
     ## Initialize the inverse property
   i <- NULL
